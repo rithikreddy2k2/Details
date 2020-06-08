@@ -60,3 +60,46 @@ public class Employee {
 
     }
 }
+
+/*OUTPUT:
+
+Enter your name :
+rithik
+
+Enter the year you joined this company :
+2002
+    
+Enter your Salary
+20000
+
+Enter your adress
+b1613
+
+Enter your name :
+sanju
+
+Enter the year you joined this company :
+2004
+    
+Enter your Salary
+50000
+
+Enter your adress
+b1619
+
+Enter your name :
+ritu
+
+Enter the year you joined this company :
+2008
+    
+Enter your Salary
+40000
+
+Enter your adress
+b1614
+
+Name	Year	Salary	Adress	
+rithik	2002	20000	b1613	
+sanju	2004	50000	b1619	
+ritu	2008	40000	b1614	*/
